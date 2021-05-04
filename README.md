@@ -1,4 +1,4 @@
 # hello-world
 Hallo leute,
 
-ich bin sie Raissa und magt gerne programmieren!
+ich bin sie Raissa und mag gerne programmieren!
